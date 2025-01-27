@@ -1,4 +1,4 @@
-# stratplus_marvel
+# flutter_characters_marvel_mvvm_getx
 
 A new Flutter project.
 
